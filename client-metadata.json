@@ -1,0 +1,15 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/parkjangwon/aside-sirteam-cimd@main/client-metadata.json",
+  "client_name": "Aside Browser",
+  "redirect_uris": [
+    "http://127.0.0.1:21420/mcp/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
